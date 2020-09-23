@@ -1,0 +1,10 @@
+PC SPEAKER MUSIC KEYBOARD
+
+ClsKeyBoardPicture.cls
+
+This is a keyboard in a picture box class. It is part of a larger project but just to show that it is really free standing here is a small demo. The keyboard in this demo plays the PC internal speaker, and also outputs simplifed Basica and Nokia note codes. 
+The keyboard has 3 built in 'skins'. 
+Basica was a DOS ancestor of VB when the internal PC speaker was THE sound system, 16 colours was fantastic and 1 MB drives were a dream.
+This is a sub-component of a more complex notation writer with error checking and auto=correction that I am working on. 
+Comments and votes welcome.
+
